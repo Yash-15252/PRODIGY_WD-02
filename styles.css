@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #04B2D9;
+}
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+.btn {
+    padding: 10px 20px;
+    font-size: 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    background-color: #F2EB8D;
+    color: #F2BF27;
+    border: none;
+    border-radius: 5px;
+}
+.btn:hover {
+    background-color: #F26E50;
+}
+#display {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+#laps {
+    list-style-type: none;
+    padding: 0;
+}
+#laps li {
+    margin: 5px 0;
+}
